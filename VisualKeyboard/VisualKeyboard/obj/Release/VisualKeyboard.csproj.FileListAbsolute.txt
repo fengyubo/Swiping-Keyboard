@@ -1,0 +1,9 @@
+C:\Users\yuf24\Desktop\HCI_HW1\VisualKeyboard\VisualKeyboard\bin\Release\VisualKeyboard.exe.config
+C:\Users\yuf24\Desktop\HCI_HW1\VisualKeyboard\VisualKeyboard\bin\Release\VisualKeyboard.exe
+C:\Users\yuf24\Desktop\HCI_HW1\VisualKeyboard\VisualKeyboard\bin\Release\VisualKeyboard.pdb
+C:\Users\yuf24\Desktop\HCI_HW1\VisualKeyboard\VisualKeyboard\obj\Release\VisualKeyboard.csprojResolveAssemblyReference.cache
+C:\Users\yuf24\Desktop\HCI_HW1\VisualKeyboard\VisualKeyboard\obj\Release\VisualKeyboard.Form1.resources
+C:\Users\yuf24\Desktop\HCI_HW1\VisualKeyboard\VisualKeyboard\obj\Release\VisualKeyboard.Properties.Resources.resources
+C:\Users\yuf24\Desktop\HCI_HW1\VisualKeyboard\VisualKeyboard\obj\Release\VisualKeyboard.csproj.GenerateResource.Cache
+C:\Users\yuf24\Desktop\HCI_HW1\VisualKeyboard\VisualKeyboard\obj\Release\VisualKeyboard.exe
+C:\Users\yuf24\Desktop\HCI_HW1\VisualKeyboard\VisualKeyboard\obj\Release\VisualKeyboard.pdb

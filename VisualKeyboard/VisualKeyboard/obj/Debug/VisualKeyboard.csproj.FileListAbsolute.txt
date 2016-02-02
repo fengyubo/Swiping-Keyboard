@@ -1,0 +1,30 @@
+c:\users\yuf24\documents\visual studio 2013\Projects\VisualKeyboard\VisualKeyboard\bin\Debug\VisualKeyboard.exe.config
+c:\users\yuf24\documents\visual studio 2013\Projects\VisualKeyboard\VisualKeyboard\bin\Debug\VisualKeyboard.exe
+c:\users\yuf24\documents\visual studio 2013\Projects\VisualKeyboard\VisualKeyboard\bin\Debug\VisualKeyboard.pdb
+c:\users\yuf24\documents\visual studio 2013\Projects\VisualKeyboard\VisualKeyboard\obj\Debug\VisualKeyboard.csprojResolveAssemblyReference.cache
+c:\users\yuf24\documents\visual studio 2013\Projects\VisualKeyboard\VisualKeyboard\obj\Debug\VisualKeyboard.Form1.resources
+c:\users\yuf24\documents\visual studio 2013\Projects\VisualKeyboard\VisualKeyboard\obj\Debug\VisualKeyboard.Properties.Resources.resources
+c:\users\yuf24\documents\visual studio 2013\Projects\VisualKeyboard\VisualKeyboard\obj\Debug\VisualKeyboard.csproj.GenerateResource.Cache
+c:\users\yuf24\documents\visual studio 2013\Projects\VisualKeyboard\VisualKeyboard\obj\Debug\VisualKeyboard.exe
+c:\users\yuf24\documents\visual studio 2013\Projects\VisualKeyboard\VisualKeyboard\obj\Debug\VisualKeyboard.pdb
+C:\Users\yuf24\Desktop\VisualKeyboard\VisualKeyboard\bin\Debug\VisualKeyboard.exe.config
+C:\Users\yuf24\Desktop\VisualKeyboard\VisualKeyboard\obj\Debug\VisualKeyboard.exe
+C:\Users\yuf24\Desktop\VisualKeyboard\VisualKeyboard\obj\Debug\VisualKeyboard.pdb
+C:\Users\yuf24\Desktop\VisualKeyboard\VisualKeyboard\bin\Debug\VisualKeyboard.exe
+C:\Users\yuf24\Desktop\VisualKeyboard\VisualKeyboard\bin\Debug\VisualKeyboard.pdb
+C:\Users\yuf24\Desktop\VisualKeyboard\VisualKeyboard\obj\Debug\VisualKeyboard.csprojResolveAssemblyReference.cache
+C:\Users\yuf24\Desktop\VisualKeyboard\VisualKeyboard\obj\Debug\VisualKeyboard.Form1.resources
+C:\Users\yuf24\Desktop\VisualKeyboard\VisualKeyboard\obj\Debug\VisualKeyboard.Properties.Resources.resources
+C:\Users\yuf24\Desktop\VisualKeyboard\VisualKeyboard\obj\Debug\VisualKeyboard.csproj.GenerateResource.Cache
+E:\VisualKeyboard\VisualKeyboard\bin\Debug\VisualKeyboard.exe.config
+E:\VisualKeyboard\VisualKeyboard\obj\Debug\VisualKeyboard.exe
+E:\VisualKeyboard\VisualKeyboard\obj\Debug\VisualKeyboard.pdb
+C:\Users\yuf24\Desktop\HCI_HW1\VisualKeyboard\VisualKeyboard\bin\Debug\VisualKeyboard.exe.config
+C:\Users\yuf24\Desktop\HCI_HW1\VisualKeyboard\VisualKeyboard\obj\Debug\VisualKeyboard.exe
+C:\Users\yuf24\Desktop\HCI_HW1\VisualKeyboard\VisualKeyboard\obj\Debug\VisualKeyboard.pdb
+C:\Users\yuf24\Desktop\HCI_HW1\VisualKeyboard\VisualKeyboard\bin\Debug\VisualKeyboard.exe
+C:\Users\yuf24\Desktop\HCI_HW1\VisualKeyboard\VisualKeyboard\bin\Debug\VisualKeyboard.pdb
+C:\Users\yuf24\Desktop\HCI_HW1\VisualKeyboard\VisualKeyboard\obj\Debug\VisualKeyboard.csprojResolveAssemblyReference.cache
+C:\Users\yuf24\Desktop\HCI_HW1\VisualKeyboard\VisualKeyboard\obj\Debug\VisualKeyboard.Form1.resources
+C:\Users\yuf24\Desktop\HCI_HW1\VisualKeyboard\VisualKeyboard\obj\Debug\VisualKeyboard.Properties.Resources.resources
+C:\Users\yuf24\Desktop\HCI_HW1\VisualKeyboard\VisualKeyboard\obj\Debug\VisualKeyboard.csproj.GenerateResource.Cache
